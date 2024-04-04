@@ -1,0 +1,1 @@
+# TNSDC_Handwritten_Equation_Solver
